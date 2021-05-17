@@ -2,7 +2,7 @@
 Replicated the BlackJack Game into simple verison. 
 You can browse the game: https://games.washingtonpost.com/games/blackjack/
 <br>
-![](Blackjack.gif)
+![](blackjack.gif)
 
 
 
